@@ -1,0 +1,1 @@
+python3 ServerWeb1.py miniWeb1:application
